@@ -1,0 +1,13 @@
+{
+	"name": "com.dimati.fps",
+	"displayName": "FPS show",
+	"version": "0.0.1",
+	"unity": "2018.4",
+	"description": "Script for show FPS",
+	"author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
+	"repository": 
+	{
+	    "type": "git",
+	    "url": "https://github.com/dimaTidev/FPS.git"
+	}
+}
