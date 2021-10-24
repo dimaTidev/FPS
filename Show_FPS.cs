@@ -11,7 +11,7 @@ public class Show_FPS : MonoBehaviour
 
     string tempFPS;
 
-    [SerializeField] GUI_Settings guiSettings;
+    [SerializeField] GUI_Settings guiSettings = new GUI_Settings();
 
     [System.Serializable]
 
